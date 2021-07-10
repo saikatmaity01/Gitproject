@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070041462194",
+    "project_id": "notificationdemo-b7471",
+    "storage_bucket": "notificationdemo-b7471.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070041462194:android:9a8811598ef71565cc60ab",
+        "android_client_info": {
+          "package_name": "com.example.demoretrofit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070041462194-g56ih9s72o0lmpnrd72k6ttgh98cj160.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrLZOyMKGn4XNKo9Oc_VFX8j7OWqJzkuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070041462194-g56ih9s72o0lmpnrd72k6ttgh98cj160.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
